@@ -46,7 +46,7 @@ Installation:
 
  - Type 'make' in terminal
    Type './wordle_server <port number> <allWords file> <solutionWords file>' after that  
-   Run nc <address> <port> on another ternimal and enjoy the game
+   Run nc <address> <port> on another terminal and enjoy the game
 Game Rules:
 
    You have 6 attempts to guess the 5-letter word
